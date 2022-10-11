@@ -1,0 +1,44 @@
+.HeaderTxt{
+    text-align: center;
+    font-size: 30px;
+    text-transform: uppercase;
+    margin: 15px -78px 0 30px;
+}
+*{
+    background-color: rgb(37, 150, 190);
+}
+
+.homeAgain{
+    font-size: 20px;
+    font-weight: bold;
+    top: -17px;
+    position: relative;
+    text-decoration: none;
+    color: black;
+}
+
+.test1{
+    width: 400px;
+    height: 280px;
+}
+
+.test2{
+    width: 400px;
+    height: 280px;
+}
+
+/* .box-container2{
+    left:60%;
+    position: relative;
+    top: -594px;
+} */
+
+.bi-house-door{
+    width: 50px;
+    height: 50px;
+    margin: -50px 0 0 0;
+}
+
+.homePg{
+    cursor: pointer;
+}
